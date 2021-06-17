@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "garima",
+    "DB_PASSWORD": "MissWorld",
+    "DB_NAME": "mern",
+    "JWT_KEY": "super_key"
+  }
+}
